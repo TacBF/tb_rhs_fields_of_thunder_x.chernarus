@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Fields_of_Thunder">
+
+	<Key ID="STR_TB_missionTitle_TB_Fields_of_Thunder">
+		<Original>Fields of Thunder</Original>
+		<English>Fields of Thunder</English>
+		<German>Fields of Thunder</German>
+		<Italian>Fields of Thunder</Italian>
+		<Spanish>Fields of Thunder</Spanish>
+		<French>Fields of Thunder</French>
+		<Czech>Fields of Thunder</Czech>
+		<Russian>Fields of Thunder</Russian>
+		<Polish>Fields of Thunder</Polish>
+		<Hungarian>Fields of Thunder</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
